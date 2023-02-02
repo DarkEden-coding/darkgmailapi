@@ -71,4 +71,4 @@ gmail.mark_as_unread(emails[0])
 ```
 
 read more:
-  https://www.thepythoncode.com/article/reading-emails-in-python
+  https://www.thepythoncode.com/article/use-gmail-api-in-python
